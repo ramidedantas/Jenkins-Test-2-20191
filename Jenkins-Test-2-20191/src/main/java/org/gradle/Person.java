@@ -11,7 +11,7 @@ public class Person {
     }
 
     public String getName() {
-        return "erro";
+        return "erro2";
     	//return name;
     }
 }
